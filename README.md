@@ -136,3 +136,9 @@ Its structure is thoughtfully separated: a clean `index.html` for setup and rend
 
 Whether you're building it, using it, or learning from it—this application is a perfect example of how modern web technologies can empower human creativity.
 
+
+
+OUTPUT:
+
+<img width="1918" height="976" alt="Image" src="https://github.com/user-attachments/assets/67785a4d-b33a-4b9f-af6b-b53e35e7bd9a" />
+
