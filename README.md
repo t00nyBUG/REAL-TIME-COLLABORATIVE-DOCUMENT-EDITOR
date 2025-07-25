@@ -53,19 +53,19 @@ Though the `index.html` looks simple, it connects to a sophisticated backend thr
 
 Here’s how some of the magic happens:
 
-#### ✅ TypeScript with React
+####  TypeScript with React
 
 By using TypeScript, the app ensures type safety and better scalability—ideal for projects with real-time complexity. React provides the component structure to manage state and render the user interface dynamically.
 
-#### ✅ Real-Time Syncing (via WebSockets or WebRTC)
+####  Real-Time Syncing (via WebSockets or WebRTC)
 
 Real-time updates are made possible through technologies like **Socket.io**, **Firebase**, or **WebRTC**. These systems create a continuous connection between users’ browsers and the server, allowing data (text edits, cursor positions, etc.) to sync instantly.
 
-#### ✅ Document Persistence
+####  Document Persistence
 
 Although not visible in the HTML file, there is likely a backend or database component that stores document content. This allows users to return to their documents later or recover from accidental losses.
 
-#### ✅ Responsive Design
+####  Responsive Design
 
 The `<meta name="viewport" content="width=device-width, initial-scale=1.0">` tag ensures the app adjusts gracefully across different devices—from desktops to tablets to mobile phones. Collaborative writing isn’t limited to one screen anymore.
 
